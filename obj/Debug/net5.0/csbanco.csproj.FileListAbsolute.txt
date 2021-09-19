@@ -1,0 +1,16 @@
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.csproj.AssemblyReference.cache
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.AssemblyInfoInputs.cache
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.AssemblyInfo.cs
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.csproj.CoreCompileInputs.cache
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.exe
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.deps.json
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.runtimeconfig.json
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.runtimeconfig.dev.json
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.dll
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\ref\csbanco.dll
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\bin\Debug\net5.0\csbanco.pdb
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.dll
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\ref\csbanco.dll
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.pdb
+C:\Users\joao.santos\Desktop\projetos\bankcs\csbanco\obj\Debug\net5.0\csbanco.genruntimeconfig.cache
